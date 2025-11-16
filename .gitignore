@@ -1,0 +1,5 @@
+.env*
+
+.terraform/
+
+images/pfSense-v2.8.1-uefi.vmdk
